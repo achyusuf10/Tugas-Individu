@@ -1,2 +1,6 @@
 # Tugas-Individu
-Nama : Achmad Yusuf Bagus Setiawan (18051204010)
+Nama : Achmad Yusuf Bagus Setiawan
+
+NIM : 18051204010
+
+Kelas : TI 2018 A
